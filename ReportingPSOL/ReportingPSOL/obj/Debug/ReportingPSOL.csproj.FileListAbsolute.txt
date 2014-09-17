@@ -1,0 +1,10 @@
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\bin\Debug\ReportingPSOL.exe
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\bin\Debug\ReportingPSOL.pdb
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.csproj.ResolveComReference.cache
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.Properties.Resources.resources
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.csproj.GenerateResource.Cache
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.exe
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.pdb
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.ReportingMainForm.resources
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.progressBar.resources
