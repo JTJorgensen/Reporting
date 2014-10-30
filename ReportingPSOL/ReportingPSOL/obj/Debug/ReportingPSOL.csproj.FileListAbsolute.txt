@@ -8,3 +8,6 @@ C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL
 C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.ReportingMainForm.resources
 C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.csprojResolveAssemblyReference.cache
 C:\Users\jeremy.jorgensen\Documents\GitHub\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.progressBar.resources
+E:\InternalApps\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.csproj.ResolveComReference.cache
+E:\InternalApps\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.exe
+E:\InternalApps\Reporting\ReportingPSOL\ReportingPSOL\obj\Debug\ReportingPSOL.pdb
